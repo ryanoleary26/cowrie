@@ -1,4 +1,4 @@
-Fork of Cowrie
+Cowrie
 ######
 
 Welcome to the Cowrie GitHub repository
